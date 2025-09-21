@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hgbidon
+- 👋 Hi, I’m @hgbidon, aka Hana Gabrielle Bidon.
 - 👀 I’m interested in creating a new portfolio.
-- 🌱 I’m currently learning about marketing analytics.
+- 🌱 I’m currently learning about Data Science and Natural Language Processing (NLP).
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: Email me at hanagabrielleb91@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/hgbidon
 - 😄 Pronouns: she/her
